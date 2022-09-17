@@ -26,13 +26,14 @@
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/) 
+- [Node.js](https://nodejs.org)
 - [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
-- [VITE](https://vitejs.dev/)
-- [TAILWINDCSS](https://tailwindcss.com/)
-- [PHOSPHOR ICONS](https://phosphoricons.com/)
+- [React Native](https://facebook.github.io/react-native)
+- [Expo](https://expo.io)
+- [Vite](https://vitejs.dev)
+- [Tailwindcss](https://tailwindcss.com)
+- [Phosphor Icons](https://phosphoricons.com)
+- [Radix](https://www.radix-ui.com)
 
 ## :memo: Licença
 
